@@ -23,6 +23,7 @@ const nav = [
   { href: "/course", label: "Course" },
 
   { href: "/project", label: "Project" },
+  { href: '/blog', label: "Blog" },
 
   { href: "/contact", label: "Contact" },
 
